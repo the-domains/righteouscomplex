@@ -1,7 +1,7 @@
 name: righteouscomplex
 favicon: null
-layout_spectrum: 0.0016104048117995262
-typography_spectrum: 0.497549909632653
+layout_spectrum: 0.23867
+typography_spectrum: 0.34396
 title: The Official City Club
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.5
   lightness: 0.055173847591504455
   saturation: 0.11826124880462885
-  rhythmicContrast: 0.900245800614357
+  rhythmicContrast: 0
 purpose: []
